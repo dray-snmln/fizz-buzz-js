@@ -1,0 +1,15 @@
+body {
+    font-family: consolas, monospace;
+    font-size: 22px;
+    color: black;
+}
+
+.red {color: red;}
+
+.blue {color: blue;}
+
+ol {
+    margin: 25px;
+    display: grid;
+    grid
+}
